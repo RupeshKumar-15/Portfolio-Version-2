@@ -280,3 +280,8 @@ em{font-style:italic;color:var(--accent)}
 #resume-btn:hover{
   background:var(--accent-3);
 }
+
+#name{
+  color:var(--accent);
+}
+
